@@ -1,0 +1,1 @@
+https://github.com/tmu-nlp/sscorpus/blob/master/sscorpus.gz
