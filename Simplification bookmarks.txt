@@ -1,0 +1,14 @@
+https://nlpprogress.com/english/simplification.html
+http://nlpprogress.com/english/simplification.html
+https://towardsdatascience.com/text-simplification-for-the-democratization-of-knowledge-5b3647e4a52
+https://medium.com/nlplanet/two-minutes-nlp-quick-intro-to-text-simplification-f5f9d7be4a3c
+https://www.google.com/search?q=text+simplification+nlp&rlz=1C1CHBF_enIN953IN954&sxsrf=ALiCzsbBJakgBKcWtFtlkad3rgQobr8dpA%3A1653754718047&ei=XkuSYve1Ao2UseMPlvmnqAI&ved=0ahUKEwj33I60zIL4AhUNSmwGHZb8CSUQ4dUDCA4&uact=5&oq=text+simplification+nlp&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIABBHELADOgcIABCwAxBDOgQIABBDOgYIABAeEBZKBAhBGABKBAhGGABQqAFY_jJgqjVoA3ABeACAAZkBiAG3BZIBAzAuNZgBAKABAcgBCsABAQ&sclient=gws-wiz
+https://explainjargon.com/
+https://aclanthology.org/2021.bea-1.2.pdf
+https://towardsdatascience.com/host-ml-apps-with-huggingface-spaces-7d5eef00e781
+https://github.com/XingxingZhang/dress
+https://docs.google.com/forms/d/e/1FAIpQLScfaBtt-1lc_oKLd-0gO9qiY9oRs5reaPx-no-X1NMa9hUt1g/viewform?c=0&w=1
+https://github.com/cocoxu/simplification
+https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/1359
+https://huggingface.co/models?other=simplification
+https://paperswithcode.com/sota/text-simplification-on-newsela
